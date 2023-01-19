@@ -1,0 +1,52 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+#ahmed{
+    display: flex;
+    list-style: none;
+}
+.nav-item{
+    font-size: large;
+}
+.homepage{
+    display: flex;
+    justify-content: center;
+}
+.leftdive{
+    justify-items: left;
+}
+.rightdiv{
+    justify-items: right;
+}
+
+.cardrow{
+    display: flex;
+  justify-content: center;
+  
+}
+.card-img-top{
+    width: 150px;
+    justify-content: center;
+}
+.oc-card{
+   display: flex;
+   justify-content: space-around;
+
+}
+.textimonial{
+    display: flex;
+    justify-content: ;
+}
+.clr-footer {
+    background-color: #282531;
+    color: white;
+  }
+  ul {
+    list-style: none;
+  }
+  .txt-size {
+    font-size: large;
+  }
